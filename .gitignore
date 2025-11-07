@@ -112,7 +112,6 @@ driver_monitoring_logs/
 *.sqlite3
 
 # IDE files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -132,3 +131,7 @@ Thumbs.db
 *.h5
 *.pkl
 *.model 
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
